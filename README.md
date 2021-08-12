@@ -1,6 +1,6 @@
 # dc-token-checker
 
-Check the discord tokens within seconds.
+An advanced token checker made with https://github.com/not-ilinked/Anarchy
 
 # Features
 
